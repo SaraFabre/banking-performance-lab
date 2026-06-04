@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/transactions"
+  },
+  "response": {
+    "status": 200,
+    "fixedDelayMilliseconds": 200,
+    "bodyFileName": "transactions-response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

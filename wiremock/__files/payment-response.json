@@ -1,0 +1,6 @@
+{
+  "paymentId": "pay_987654",
+  "status": "COMPLETED",
+  "amount": 250.00,
+  "currency": "BRL"
+}
